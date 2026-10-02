@@ -8,6 +8,8 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
+           spacer() 
+           spacer()
     Text("Butmese English Voice To Text")
 }
     }
