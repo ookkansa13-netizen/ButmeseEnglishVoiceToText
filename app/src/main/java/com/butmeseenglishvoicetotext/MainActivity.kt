@@ -10,7 +10,7 @@ class MainActivity : CompatActivity() {
         setContent {
            spacer() 
            spacer()
-    Text("ButmeseEnglish Voice To Text")
+    Text("Butmese English Voice To Text")
 }
     }
 }
