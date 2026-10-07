@@ -8,7 +8,7 @@ class MainActivity : CompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
-           
+       
            
     Text("Butmese English Voice To Text")
 }
