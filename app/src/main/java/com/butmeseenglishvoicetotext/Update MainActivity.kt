@@ -11,6 +11,7 @@ class MainActivity : CompatActivity() {
        
            
     Text("Butmese English Voice To Text")
+    }
 }
     }
 }
